@@ -19,6 +19,8 @@ The **Accounting Invoice Management System** is a web application designed to st
 
 ## Key Features
 
+<img src="https://github.com/user-attachments/assets/d404b02c-de34-48c2-a069-3e883de2298c" alt="Invoice Management Dashboard" width="100%">
+
 - **Invoice Generation:** Create, edit, and manage invoices with detailed itemization.  
 - **Product Management:** Maintain an inventory of products with pricing details.  
 - **Customer Management:** Centralized database of clients for seamless invoicing.  
@@ -27,7 +29,7 @@ The **Accounting Invoice Management System** is a web application designed to st
 - **Export & Print Options:** Generate PDFs and print invoices directly from the system.  
 - **Responsive Design:** Accessible across devices, including desktops, tablets, and mobiles.  
 
-<img width="648" alt="image" src="https://github.com/user-attachments/assets/d404b02c-de34-48c2-a069-3e883de2298c">
+
 
 ---
 
