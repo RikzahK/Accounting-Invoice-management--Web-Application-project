@@ -21,6 +21,7 @@ The **Accounting Invoice Management System** is a web application designed to st
 
 <img src="https://github.com/user-attachments/assets/d404b02c-de34-48c2-a069-3e883de2298c" alt="Invoice Management Dashboard" width="100%">
 
+
 - **Invoice Generation:** Create, edit, and manage invoices with detailed itemization.  
 - **Product Management:** Maintain an inventory of products with pricing details.  
 - **Customer Management:** Centralized database of clients for seamless invoicing.  
